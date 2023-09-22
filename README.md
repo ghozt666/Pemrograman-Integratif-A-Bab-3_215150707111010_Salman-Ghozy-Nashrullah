@@ -3,7 +3,7 @@
 <h1>Langkah Percobaan</h1>
 <h2>Percobaan instalasi NodeJS</h2>
 <h3>Langkah ke-1</h3>
-<p>Buka halaman</p>
+<p>Buka halaman web nodeJS</p>
 <a href="https://nodejs.org/en/"> <img src="gambar/1.PNG"></a>
 
 
